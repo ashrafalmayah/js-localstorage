@@ -77,3 +77,19 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0,0,0,0.1);
 }
+
+.plates-buttons {
+  margin-top: 20px;
+}
+
+button{
+  color: #6b6b6b;
+  border: none;
+  background: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+button:hover{
+  color: #222;
+}
